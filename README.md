@@ -1,5 +1,5 @@
 ## Tables
-This is a project of a  website. It displayes important information about the business. 07/11/2021 BY veronica Wangari
+This is a simple web page showing a table. BY veronica Wangari
 
 ## Description
  The website displays a table of people, their age and cities of residence.
