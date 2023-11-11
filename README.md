@@ -1,4 +1,4 @@
-## Tables
+<!-- ## Tables
 This is a simple web page showing a table. BY veronica Wangari
 
 ## Description
@@ -17,4 +17,4 @@ This is a simple web page showing a table. BY veronica Wangari
 Email:verowangari34@gmail.com
 
 ## License Copyright
- (c) {2023} Veronica Wangari
+ (c) {2023} Veronica Wangari -->
